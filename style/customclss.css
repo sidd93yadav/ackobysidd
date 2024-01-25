@@ -1,0 +1,49 @@
+.s_primary {
+    background-color: #5920C5;
+}
+
+.s_primary2 {
+    background-color: #703BD9;
+}
+
+.s_primary_bark {
+    background-color: #4A1F9E;
+}
+
+.s_success {
+    background-color: #0FA457;
+}
+
+.s_success_bark {
+    background-color: #0B753E;
+}
+
+.s_black {
+    background-color: #141323;
+}
+
+.s_light {
+    background-color: #F6F7FB;
+}
+
+.s_pick_light {
+    background-color: #EFE9FB;
+}
+
+.s_container {
+    width: 80%;
+    margin: auto;
+    padding: 5px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* cursor */
+
+.s_cursor {
+    cursor: pointer;
+}

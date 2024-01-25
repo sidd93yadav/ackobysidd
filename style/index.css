@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+header .s_header_left {
+    width: 60%;
+}
+
+.s_header_left ul li {
+    list-style: none;
+}
+
+.s_header_left ul li a {
+    font-size: 13px;
+    text-decoration: none;
+}
+
+.s_header_left ul li a i {
+    font-size: 7px;
+    margin: 0px 3px;
+    padding-top: 3px;
+}
+
+.s_header_right button {
+    padding: 3px 6px;
+    border: 0;
+    border-radius: 5px;
+    font-size: 13px;
+    margin: 5px;
+}
+
+
+/* offer */
+
+.s_offers .s_offer_top .s_offer_box h6 {
+    padding-top: 8px;
+    font-size: 10px;
+}
+
+
+/* banner */
+
+.s_banner .s_banner_left {
+    width: 20%;
+}
+
+.s_banner .s_banner_mid {
+    width: 60%;
+}
+
+.s_banner .s_banner_right {
+    width: 20%;
+}
+
+.s_banner_left_img {
+    width: 100%;
+    height: 230px;
+}
+
+.s_banner_left_img img {
+    width: 100%;
+    height: 100%;
+}
+
+.s_banner_right_img {
+    width: 100%;
+    height: 230px;
+}
+
+.s_banner_right_img img {
+    width: 100%;
+    height: 100%;
+}
+
+
+/* mid */
+
+.s_banner_mid_form {
+    margin: 10px 115px;
+    border-radius: 8px;
+    padding: 10px 5px;
+}
+
+.s_banner_mid_form h5 {
+    font-size: 18px;
+}
+
+.s_banner_form_input {
+    padding: 10px 10px;
+    border-radius: 5px;
+    margin: 10px;
+    gap: 100px;
+}
+
+.s_banner_form_input input {
+    border: none;
+    font-size: 10px;
+}
+
+.s_banner_form_input input ::placeholder {
+    text-decoration: left !important;
+}
+
+.s_banner_form_input button {
+    border: none;
+    border-radius: 5px;
+    font-size: 10px;
+    color: white;
+}
+
+.s_banner_mid_text {
+    border-radius: 3px;
+    background-color: #FFE9EE;
+}
+
+.s_banner_mid_text p {
+    font-size: 9px;
+    padding: 5px 10px;
+    color: red;
+}
+
+
+/* banner bottom */
+
+.s_banner_mid_bottom {
+    margin: 10px 115px;
+}
+
+.s_banner_mid_bottom p {
+    margin: 0 !important;
+    padding: o !important;
+    font-size: 11px;
+    font-weight: 500;
+    color: white;
+}
+
+.s_banner_mid_bottom span {
+    font-size: 8px;
+    margin: 0;
+    padding: 0;
+    font-weight: 500;
+    color: white;
+}
+
+.s_banner_mid_bottom button {
+    font-size: 10px;
+    padding: 7px 10px;
+    background-color: #481AA4;
+    color: white;
+    border: none;
+    border: 1px solid white;
+    border-radius: 3px;
+    margin: 5px;
+}
+
+.s_banner_mid_bottom_icon {
+    border-radius: 4px;
+    margin: 5px;
+    padding: 5px 8px;
+}
